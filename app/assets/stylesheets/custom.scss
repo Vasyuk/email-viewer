@@ -1,2 +1,22 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+body{
+  margin-top: 5%;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.mail{
+  margin-top: 1%;
+  border: 1px groove;
+  padding: 2%;
+}
+
+.about{
+  font-size: 20px;
+  border-right: 1px groove;
+}
+
+.text{
+  font-size: 15px;
+}
